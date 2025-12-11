@@ -287,7 +287,7 @@ If you use this project in your research, please cite:
 
 ```bibtex
 @misc{ritvik2024videoviolence,
-  author = {Ritvik Verma},
+  author = {Ritvik},
   title = {DL-Video-classification-Binary: CNN-based Violence Detection},
   year = {2024},
   url = {https://github.com/ritvikvr/DL-Video-classification-Binary-},
@@ -304,7 +304,7 @@ If you use this project in your research, please cite:
 
 ## 👤 Author
 
-**Ritvik Verma** (@ritvikvr)  
+**Ritvik** (@ritvikvr)  
 Computer Science Engineering Student (AI/Data Science Specialization)  
 GitHub: https://github.com/ritvikvr
 
